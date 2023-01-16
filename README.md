@@ -8,7 +8,8 @@
 ![guest-view](https://user-images.githubusercontent.com/69867926/212631115-d68c567d-3afd-4e55-81c4-d87df295389c.png)
     
    User Login View
-![guest-view-login](https://user-images.githubusercontent.com/69867926/212631379-54b00440-cd52-4e12-873f-1b2d587070b4.png)
+![guest-view-login](https://user-images.githubusercontent.com/69867926/212635204-515f5dc3-f007-4810-a0b9-87f869a1cf15.png)
+
 
    User Register Preview
 ![guest-view-register](https://user-images.githubusercontent.com/69867926/212631456-e0a5cf19-b094-4648-9249-388cfcb4dce7.png)
@@ -16,7 +17,7 @@
    User Welcome View
 ![user-welcome](https://user-images.githubusercontent.com/69867926/212631716-8b5e813e-ebff-4407-acf2-eee7d3e35a44.png)
 
-   Registered User Home Preview
+   Registered User Home
 ![user-home-view](https://user-images.githubusercontent.com/69867926/212631850-6a1b473c-33a8-465d-8d21-f1db68e45079.png)
 
    Add Article Preview
