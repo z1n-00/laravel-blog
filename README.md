@@ -4,7 +4,7 @@
  
  ### Screenshots
 
-    Guest Home Preview
+   Guest Home Preview
 ![guest-view](https://user-images.githubusercontent.com/69867926/212631115-d68c567d-3afd-4e55-81c4-d87df295389c.png)
     
    User Login View
